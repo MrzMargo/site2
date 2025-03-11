@@ -1,1 +1,3 @@
 site_name: My Docs
+nav:
+  - Главная: index.md
