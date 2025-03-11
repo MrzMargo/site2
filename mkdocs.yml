@@ -1,11 +1,5 @@
 site_name: My Docs
 theme:
   name: null  # Используйте null, чтобы отключить стандартную тему, если необходимо
-
-# Укажите кастомный шаблон
-extra:
-  base_template: base.html
-
-# Определите навигацию (если это необходимо)
 nav:
-  - Главная: base.html
+  - Главная: index.md
