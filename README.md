@@ -2,4 +2,4 @@
 
 Добро пожаловать в мой проект! 
 
-[Перейти на сайт](https://mrzmargo.github.io/site2/docs/templates/base.html)
+[Перейти на сайт](https://mrzmargo.github.io/site2/docs/templates/main.html)
