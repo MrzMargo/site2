@@ -1,4 +1,0 @@
-site_name: Мой сайт
-theme:
-  name: null  # Отключаем стандартную тему
-  custom_dir: templates  # Указываем папку с кастомным шаблоном
