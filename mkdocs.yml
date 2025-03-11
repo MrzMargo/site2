@@ -1,5 +1,6 @@
 site_name: My Docs
 theme:
   name: null  # Используйте null, чтобы отключить стандартную тему, если необходимо
+  custom_dir: templates
 nav:
   - Главная: index.md
